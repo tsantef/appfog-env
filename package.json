@@ -1,0 +1,24 @@
+{
+  "name": "appfog-env",
+  "version": "0.0.1",
+  "description": "Parses service bindings and configuration information for Node.js apps on AppFog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tsantef/appfog-env.git"
+  },
+  "keywords": [
+    "AppFog",
+    "Environment",
+    "CoffeeScript"
+  ],
+  "author": "Tim Santeford",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "underscore": "~1.4.4"
+  }
+}
